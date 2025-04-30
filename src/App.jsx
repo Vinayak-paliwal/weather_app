@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import search from './assets/icons/search.svg'
 import { useStateContext } from './Context'
-import { BgLayout, WeatherCard, MiniCard } from './Components'
+import { BgLayout, WeatherCard, MiniCard } from './components'
 
 function App() {
 
